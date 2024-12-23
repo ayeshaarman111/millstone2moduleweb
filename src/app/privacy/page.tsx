@@ -37,7 +37,7 @@ const page = () => {
 
         <section className={style.privacysection}>
             <h2 className={style.h2}>Cookies and Tracking Technologies</h2>
-            <p  className={style.paragraph}>We use cookies and other tracking technologies to improve the functionality and performance of our website. You can adjust your browser settings to disable cookies, though this may affect the website's functionality.</p>
+            <p  className={style.paragraph}>We use cookies and other tracking technologies to improve the functionality and performance of our website. You can adjust your browser settings to disable cookies, though this may affect the websites functionality.</p>
         </section>
 
         <section className={style.privacysection}>
