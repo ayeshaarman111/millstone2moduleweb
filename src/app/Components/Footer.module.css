@@ -1,0 +1,15 @@
+
+
+.heading{
+   
+    display: flex;
+    justify-content: center;  /* Centers text horizontally */
+    align-items: center;      /* Centers text vertically */
+    height: 10vh; 
+    font-weight: 50;
+    color: rgb(99, 44, 4);
+    background-color: #d1e5f0;
+    color: rgb(12, 124, 216);
+    
+   
+}

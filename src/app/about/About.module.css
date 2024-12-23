@@ -1,0 +1,10 @@
+.div{
+    background-image: url('/pic1.webp');
+    height: 650px;
+}
+.heading{
+    color: antiquewhite;
+    text-align: center;
+    font-weight: 100;
+}
+

@@ -1,0 +1,19 @@
+.div{
+    background-image: url("https://images.pexels.com/photos/3293150/pexels-photo-3293150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+
+
+    
+}
+
+.heading{
+    display: flex;
+    justify-content: center;  /* Centers text horizontally */
+    align-items: center;      /* Centers text vertically */
+    height: 90vh; 
+    font-weight: 700;
+    color: rgb(99, 44, 4);
+    
+}
